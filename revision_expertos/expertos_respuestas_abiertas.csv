@@ -1,0 +1,7 @@
+experto,informacion_adicional,riesgos
+Experto 1,"Necesitaría conocer la definición exacta de abandono y el período para el cual se busca estimar el riesgo, incorporando fechas que permitan evaluar la anticipación del modelo.
+También requeriría resultados con clientes reales y datos nuevos, junto con una explicación de los principales factores asociados al puntaje de cada cliente.
+Finalmente, necesitaría conocer la capacidad de atención del equipo, el costo de contactar clientes y la efectividad de las acciones de retención para elegir un umbral adecuado.","Me preocupa que los resultados obtenidos con datos de una empresa ficticia no se reproduzcan en clientes reales y que, sin fechas, no sea posible determinar cuándo actuar.
+Además, aproximadamente el 46 % de las alertas corresponde a clientes que no abandonaron, mientras que cerca del 24 % de los abandonos no fue detectado, lo que podría generar contactos innecesarios y oportunidades de retención perdidas.
+La importancia predictiva de las variables no demuestra causalidad ni garantiza que una intervención evite el abandono; por ello, utilizaría el puntaje como apoyo a la priorización, con supervisión y evaluación continua."
+Experto 2,"Necesitaría saber qué tan confiable es el puntaje, por qué un cliente podría abandonar la empresa y cuánto costaría contactarlo para intentar que se quede. Así podría tomar mejores decisiones.","Que el modelo se equivoqu y haga tomar malas decisiones. También puede generar gastos innecesarios, ya que no sabemos con seguridad qué clientes se van a ir ni por qué."

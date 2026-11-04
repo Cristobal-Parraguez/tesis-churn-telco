@@ -1,0 +1,7 @@
+item,afirmacion,n,media,pct_acuerdo,favorable_media_ge_4,Muy en desacuerdo,En desacuerdo,Ni de acuerdo ni en desacuerdo,De acuerdo,Muy de acuerdo
+1,El puntaje de riesgo de abandono es comprensible e interpretable para el equipo de retención de clientes.,2,4.0,100.0,True,0,0,0,2,0
+2,La matriz de confusión facilita la interpretación de los errores de clasificación del modelo.,2,5.0,100.0,True,0,0,0,0,2
+3,Las variables con mayor importancia predictiva son coherentes con la experiencia y el conocimiento del negocio.,2,4.0,100.0,True,0,0,0,2,0
+4,El umbral de clasificación propuesto genera un volumen de alertas que resulta manejable para el equipo de retención de clientes.,2,3.0,0.0,False,0,0,2,0,0
+5,El puntaje sería útil para priorizar clientes en una campaña de retención.,2,4.0,100.0,True,0,0,0,2,0
+6,Las limitaciones del modelo predictivo se describen de manera clara y comprensible.,2,5.0,100.0,True,0,0,0,0,2
