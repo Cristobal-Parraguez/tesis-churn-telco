@@ -1,4 +1,4 @@
-# Modelo analítico predictivo para la identificación del riesgo de abandono de clientes en servicios digitales de telecomunicaciones
+# Modelo predictivo para la identificación del riesgo de abandono de clientes en servicios digitales de telecomunicaciones
 
 Tesina para optar al título de Ingeniería en Informática, Universidad Bernardo O'Higgins (2026).
 
